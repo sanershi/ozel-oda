@@ -28,6 +28,7 @@ Bot Discord.js v13'dür
 
 # Uyarı
 **Botta ufak emojiler kullanılmıştır kendinize göre şekillendirin**
+*Bot tamamen bitmiş durumda değildir yarım haldeyken paylaşılmıştır.*
 
 # Görseller
 ![unknown](https://user-images.githubusercontent.com/73155590/201751032-65d33301-1668-4b47-9e7c-e16db3441da1.png)
